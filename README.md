@@ -14,3 +14,4 @@ Notes:
 Spent some time making the default value for tip percentage index using Default Preference property file by searching the web.
 
 Demo is part of the gif file: @demo1.gif
+![](https://github.com/ashok78/tipCalculator1/blob/master/demo1.gif)
